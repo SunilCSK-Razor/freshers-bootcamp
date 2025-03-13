@@ -8,4 +8,8 @@ func main() {
 		sum += sum
 	}
 	fmt.Println(sum)
+
+	for {
+		fmt.Println("Sunil")
+	}
 }
